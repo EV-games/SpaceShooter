@@ -1,0 +1,148 @@
+{"frames": [
+
+{
+	"filename": "pickup_life",
+	"frame": {"x":0,"y":64,"w":2048,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":64},
+	"sourceSize": {"w":2048,"h":64}
+},
+{
+	"filename": "pickup_speed",
+	"frame": {"x":0,"y":128,"w":2048,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":64},
+	"sourceSize": {"w":2048,"h":64}
+},
+{
+	"filename": "pickup_photon",
+	"frame": {"x":0,"y":0,"w":2048,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2048,"h":64},
+	"sourceSize": {"w":2048,"h":64}
+},
+{
+	"filename": "ship_sphere",
+	"frame": {"x":0,"y":256,"w":1024,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":64},
+	"sourceSize": {"w":1024,"h":64}
+},
+{
+	"filename": "ship_starknife",
+	"frame": {"x":0,"y":192,"w":1024,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":64},
+	"sourceSize": {"w":1024,"h":64}
+},
+{
+	"filename": "ship_player",
+	"frame": {"x":1024,"y":256,"w":1024,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":64},
+	"sourceSize": {"w":1024,"h":64}
+},
+{
+	"filename": "ship_cone",
+	"frame": {"x":1024,"y":192,"w":1024,"h":64},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":64},
+	"sourceSize": {"w":1024,"h":64}
+},
+{
+	"filename": "bullet_anim_red",
+	"frame": {"x":512,"y":320,"w":512,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":32},
+	"sourceSize": {"w":512,"h":32}
+},
+{
+	"filename": "bullet_anim_green",
+	"frame": {"x":0,"y":320,"w":512,"h":32},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":32},
+	"sourceSize": {"w":512,"h":32}
+},
+{
+	"filename": "thrust_player",
+	"frame": {"x":1024,"y":320,"w":135,"h":99},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":135,"h":99},
+	"sourceSize": {"w":135,"h":99}
+},
+{
+	"filename": "explosion",
+	"frame": {"x":1159,"y":320,"w":100,"h":100},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+{
+	"filename": "thrust_green",
+	"frame": {"x":1259,"y":320,"w":83,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":61},
+	"sourceSize": {"w":83,"h":61}
+},
+{
+	"filename": "thrust_red",
+	"frame": {"x":1342,"y":320,"w":79,"h":60},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":79,"h":60},
+	"sourceSize": {"w":79,"h":60}
+},
+{
+	"filename": "bullet_blue",
+	"frame": {"x":1421,"y":320,"w":64,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":48},
+	"sourceSize": {"w":64,"h":48}
+},
+{
+	"filename": "bullet_red",
+	"frame": {"x":1485,"y":320,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+{
+	"filename": "thrust_sphere",
+	"frame": {"x":1533,"y":320,"w":46,"h":16},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":16},
+	"sourceSize": {"w":46,"h":16}
+},
+{
+	"filename": "bullet_green",
+	"frame": {"x":1579,"y":320,"w":40,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":40},
+	"sourceSize": {"w":40,"h":40}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "spaceShoote.png",
+	"format": "RGBA8888",
+	"size": {"w":2048,"h":420},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:da75776458c93e109107fafa7c29d3fb:122e67e92b018c5f3049ee24fcad8c45:14c3bedd891ff385b11cd0079eb45e6d$"
+}
+}

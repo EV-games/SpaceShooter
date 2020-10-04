@@ -1,0 +1,57 @@
+{"frames": [
+
+{
+	"filename": "asteroid1",
+	"frame": {"x":95,"y":0,"w":192,"h":146},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":192,"h":146},
+	"sourceSize": {"w":192,"h":146},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "asteroid2",
+	"frame": {"x":0,"y":0,"w":95,"h":106},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":95,"h":106},
+	"sourceSize": {"w":95,"h":106},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "planet1",
+	"frame": {"x":512,"y":354,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "planet2",
+	"frame": {"x":0,"y":354,"w":512,"h":512},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":512,"h":512},
+	"sourceSize": {"w":512,"h":512},
+	"pivot": {"x":0.5,"y":0.5}
+},
+{
+	"filename": "station",
+	"frame": {"x":287,"y":0,"w":430,"h":354},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":430,"h":354},
+	"sourceSize": {"w":430,"h":354},
+	"pivot": {"x":0.5,"y":0.5}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "foreground.png",
+	"format": "RGBA8888",
+	"size": {"w":1024,"h":866},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bee0c150eb0798c975070125f95646de:13c51bf78d83f172832b0b884a123176:20b5906f0bac1da75cd96cd822731771$"
+}
+}
